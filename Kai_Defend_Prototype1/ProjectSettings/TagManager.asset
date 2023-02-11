@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Bullet
+  - Card_F81
+  - Card_F13
+  - Card_W75
+  - Card_W410
+  - Card_TEP58
+  - Card_P32
+  - Card_Z1
+  - Card_Z23
+  - Card_Z25
+  - Card_Z46
+  - Card_U73
+  - Card_U556
+  - Card_U110
+  - Card_U101
+  - Card_I168
+  - Card_I13
+  - Card_I58
+  - Card_I26
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Environment
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

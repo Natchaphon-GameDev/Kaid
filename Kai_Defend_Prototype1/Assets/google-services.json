@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "378359748200",
+    "firebase_url": "https://kaid-65c39-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kaid-65c39",
+    "storage_bucket": "kaid-65c39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378359748200:android:cbb582efb2c3eb45960ddd",
+        "android_client_info": {
+          "package_name": "com.ppb.Kaid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378359748200-7gfjg3dm6ukrh9n1tb8rnodirmtoi46r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSoW-Vv_71R6E29JSElVDVzkycY3mFxAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378359748200-7gfjg3dm6ukrh9n1tb8rnodirmtoi46r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
